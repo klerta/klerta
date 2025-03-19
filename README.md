@@ -85,7 +85,7 @@
 <img  src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="800" >
 
 
-# 📊 GitHub Stats:WiemMimouni
+# 📊 GitHub Stats:Klerta Terziu
 
 
 
